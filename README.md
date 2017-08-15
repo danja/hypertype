@@ -1,18 +1,20 @@
-Playing with a custom typeface - learning by doing :)
+Playing with a custom typeface...
 
-First pass: reducing/softening serifs, making ties like Burlingame.
+Using birdfont, by eye (maybe use fontforge later to standardise measurements).
 
-*** Progress : tweaked as far as F
+Quick first pass: reducing/softening serifs, making ties like Burlingame. Doesn't matter if they're messy (take time over individual chars to fix later).
+
+*Progress* : ABCDEFGHIJK
 
 Check with : http://www.impallari.com/testing/
 
-Motivated by wanting a nice & clear, but distinctive fonts for my sites. Starting with body text (Used to use Georgia, currently Merriweather on WordPress).
+Motivated by wanting a nice & clear, but distinctive fonts for my sites. Serif body text first. (Used to use Georgia, currently Merriweather on WordPress).
 
-Modern-looking but retaining some of Times-like authority.
+Modern-looking but retaining some of Times-like authority. Hint of architectural ogives.
 
 Legibility/readability a priority, so nothing too radical.
 
-Started with Liberation Serif 2, to get Times New Roman metrics.
+Started with Liberation Serif 2, to get something like Times New Roman metrics for compatibility.
 
 
 
