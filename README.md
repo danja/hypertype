@@ -4,7 +4,8 @@ Using birdfont, by eye (maybe use fontforge later to standardise measurements).
 
 Quick first pass: reducing/softening serifs, making ties like Burlingame. Doesn't matter if they're messy (take time over individual chars to fix later).
 
-*Progress* : ABCDEFGHIJK
+*Progress* 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 Check with : http://www.impallari.com/testing/
 
@@ -19,6 +20,8 @@ Started with Liberation Serif 2, to get something like Times New Roman metrics f
 
 
 See also : https://en.wikipedia.org/wiki/Typeface_anatomy
+
+http://designwithfontforge.com/en-US/index.html
 
 
 
