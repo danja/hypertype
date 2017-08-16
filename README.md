@@ -6,8 +6,7 @@ Quick first pass: reducing/softening serifs, making ties like Burlingame. Doesn'
 
 *Progress* 
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-
-Check with : http://www.impallari.com/testing/
+abcdefghijklmnopqrstuvwxyz
 
 Motivated by wanting a nice & clear, but distinctive fonts for my sites. Serif body text first. (Used to use Georgia, currently Merriweather on WordPress).
 
@@ -17,12 +16,13 @@ Legibility/readability a priority, so nothing too radical.
 
 Started with Liberation Serif 2, to get something like Times New Roman metrics for compatibility.
 
+Check with : http://www.impallari.com/testing/
 
+See also : 
 
-See also : https://en.wikipedia.org/wiki/Typeface_anatomy
+https://en.wikipedia.org/wiki/Typeface_anatomy
 
 http://designwithfontforge.com/en-US/index.html
-
 
 
 
