@@ -1,3 +1,5 @@
+https://github.org/danja/hypertype
+
 Playing with a custom typeface...
 
 Using birdfont, by eye (maybe use fontforge later to standardise measurements).
@@ -21,6 +23,8 @@ abcdefghijklmnopqrstuvwxyz
 
 Split off first 256 chars using fontforge - old versions in ./old-with-unicode
 
+Started tweaking...
+
 ----
 *See also*
 
@@ -29,6 +33,10 @@ http://www.impallari.com/testing/
 https://en.wikipedia.org/wiki/Typeface_anatomy
 
 http://designwithfontforge.com
+
+https://fontforge.github.io/problems.html
+
+https://fontlibrary.org/en/guidebook
 
 Kerning : https://xkcd.com/1015/
 
